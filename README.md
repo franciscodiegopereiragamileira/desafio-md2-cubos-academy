@@ -1,6 +1,6 @@
 ![](https://i.imgur.com/xG74tOh.png)
 
-# Desafio | Front-end - Módulo 2
+# Desafio | Front-end - Módulo 2c - feito
 
 O objetivo deste exercício é replicar o website encontrado no figma [``Desafio front academy 1.fig``](https://www.figma.com/file/79R31SMg3mwnd9AWRa3nIF/Desafio-front-academy-md02?node-id=0%3A1&t=LPHOqT9G1QSvmHjY-1).
 
